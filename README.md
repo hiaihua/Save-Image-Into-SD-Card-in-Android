@@ -9,4 +9,4 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/save-image-into-s
 
 **Screenshot**
 
-![Save Image Into SD Card in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/SaveImage-Tutorial.png)
+![Save Image Into SD Card in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/Save-Image-Tutorial-ScreenShots.png)
